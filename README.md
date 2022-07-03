@@ -1,8 +1,8 @@
-# Hey Everyone! I'm [Ayush Gupta!](https://github.com/ayush-921) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="18px">
+# Hey Everyone! I'm [Ayush Gupta!](https://github.com/ayush-921) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="1px">
 
 <h4><b><samp>Connect with me</samp></b></h4>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agupta921)
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agupta921/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush._921/)
 
 <h4><b><samp>Coding Profiles</samp></b></h4>
@@ -17,7 +17,9 @@
 <p align="center"><h2 align="center"><samp> Flutter Developer </samp></h2></p>
 
 <div>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="40%" height="40%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+  <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"">
+
+<!--<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>-->
 
 - 🔭 <samp>I’m currently learning Flutter and Firebase.
 - ✍🏻 <samp>I’m IT undergraduate at [NIT Raipur](http://nitrr.ac.in/).
@@ -40,13 +42,13 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-##
 
-<!--<h4><b><samp>Database</samp></b></h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)-->
+<!--<h4><b><samp>Database</samp></b></h4>-->
 
-##
+<!--![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)-->
+
+
 
 <!--<h4><b><samp>Frameworks</samp></b></h4>
 
@@ -54,7 +56,8 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)-->
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+-->
 
 ##
 
